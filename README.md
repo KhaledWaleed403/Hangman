@@ -1,4 +1,4 @@
-#Hangman
+# Hangman
 
 This is a graphical implementation of the classic Hangman game developed in Java. 
 
