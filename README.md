@@ -1,3 +1,5 @@
+#Hangman
+
 This is a graphical implementation of the classic Hangman game developed in Java. 
 
 The game challenges players to guess a randomly selected word by clicking on letter buttons, with a limited number of incorrect guesses allowed before the game is lost.
